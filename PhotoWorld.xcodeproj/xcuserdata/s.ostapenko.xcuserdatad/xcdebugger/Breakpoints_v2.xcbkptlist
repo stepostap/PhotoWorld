@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "75EA6783-4419-473F-B606-61F96A33BD53"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "078AD7EF-C59A-41C8-B714-653236C2A847"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/FlowCoordinators/MainFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01C82B6A-6BB0-45F3-ADC7-465FB001486E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/FlowCoordinators/WelcomeModuleCoordinators/WelcomeModuleFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "023AC3A6-7EC3-4737-9BCE-288345F11D60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4DB48EC-917A-4DFB-9F14-7BF8163B5C92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/AccountVerification/VerificationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "initSendBird(token:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F4E2E28-C13F-403E-AFF4-67007CC7D486"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Registration/RegViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "createAccount()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F4E2E28-C13F-403E-AFF4-67007CC7D486 - 15ee5f389f62d927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.RegViewModel.createAccount() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Registration/RegViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "6F4E2E28-C13F-403E-AFF4-67007CC7D486 - 15ee5f389f62d927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.RegViewModel.createAccount() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Registration/RegViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "265">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DC5AFD53-50B0-41CF-8ABF-DAF5ED48CE0E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "getSingleProfile(profiles:accountService:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DC5AFD53-50B0-41CF-8ABF-DAF5ED48CE0E - 9f4100181403e92b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #2 (Moya.Response) -&gt; () in PhotoWorld.LoginViewModel.getSingleProfile(profiles: PhotoWorld.UserProfiles, accountService: PhotoWorld.AccountService) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "1222">
+               </Location>
+               <Location
+                  uuid = "DC5AFD53-50B0-41CF-8ABF-DAF5ED48CE0E - 9f4100181403e92b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #2 (Moya.Response) -&gt; () in PhotoWorld.LoginViewModel.getSingleProfile(profiles: PhotoWorld.UserProfiles, accountService: PhotoWorld.AccountService) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "943">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13DD5499-6150-4751-8D6A-9E273F4E5122"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "getProfilesInfo(token:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13DD5499-6150-4751-8D6A-9E273F4E5122 - 49e64a11a839c91d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.LoginViewModel.getProfilesInfo(token: Swift.String) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "939">
+               </Location>
+               <Location
+                  uuid = "13DD5499-6150-4751-8D6A-9E273F4E5122 - 49e64a11a839c91d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.LoginViewModel.getProfilesInfo(token: Swift.String) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "106"
+                  endingLineNumber = "106"
+                  offsetFromSymbolStart = "672">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A4D4F8A-206C-42EA-B9CB-211F4C1CC097"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "logIn()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A4D4F8A-206C-42EA-B9CB-211F4C1CC097 - 34aa8a4e9f8c5010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.LoginViewModel.logIn() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1137">
+               </Location>
+               <Location
+                  uuid = "0A4D4F8A-206C-42EA-B9CB-211F4C1CC097 - 34aa8a4e9f8c5010"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.LoginViewModel.logIn() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "998">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9663FCFF-F505-41C8-A837-AD9BF8D35C68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionCreation/PhotosessionDateViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "createPhotosession()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30B83950-B50B-4731-A91D-BB28099A9A6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/FlowCoordinators/PhotosessionModuleCoordinators/PhotosessionCreationFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "passChosenTags(tags:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30B83950-B50B-4731-A91D-BB28099A9A6B - 5e6cd2306faf7e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.PhotosessionCreationFlowCoordinator.passChosenTags(tags: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/FlowCoordinators/PhotosessionModuleCoordinators/PhotosessionCreationFlowCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "30B83950-B50B-4731-A91D-BB28099A9A6B - 39c2432ded9198c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #1 (PhotoWorld.PhotosessionCreationFlowCoordinator) -&gt; (PhotoWorld.PhotosessionShortInfo) -&gt; () in PhotoWorld.PhotosessionCreationFlowCoordinator.passChosenTags(tags: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/FlowCoordinators/PhotosessionModuleCoordinators/PhotosessionCreationFlowCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  uuid = "30B83950-B50B-4731-A91D-BB28099A9A6B - 56258ffa7eda0cf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "implicit closure #2 (PhotoWorld.PhotosessionShortInfo) -&gt; () in implicit closure #1 (PhotoWorld.PhotosessionCreationFlowCoordinator) -&gt; (PhotoWorld.PhotosessionShortInfo) -&gt; () in PhotoWorld.PhotosessionCreationFlowCoordinator.passChosenTags(tags: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/FlowCoordinators/PhotosessionModuleCoordinators/PhotosessionCreationFlowCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "30B83950-B50B-4731-A91D-BB28099A9A6B - 5e6cd2306faf7e53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.PhotosessionCreationFlowCoordinator.passChosenTags(tags: Swift.Array&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/FlowCoordinators/PhotosessionModuleCoordinators/PhotosessionCreationFlowCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
+                  offsetFromSymbolStart = "62">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DBC8C677-8641-4D42-B3C4-EB67A9743336"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "createAlbum(urls:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3248C8BD-74DF-43D9-A42D-FC9BAB85506A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "createAlbum(urls:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3248C8BD-74DF-43D9-A42D-FC9BAB85506A - c0e0eaf919db6e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Moya.MoyaError&gt;) -&gt; () in PhotoWorld.AlbumcreationViewModel.createAlbum(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "3248C8BD-74DF-43D9-A42D-FC9BAB85506A - 492598a11cef477c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Combine.Subscribers.Completion&lt;Moya.MoyaError&gt;) -&gt; () in PhotoWorld.AlbumcreationViewModel.createAlbum(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E88D9D01-3BB6-4C80-8237-9E23A2D62AEB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "createAlbum(urls:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E88D9D01-3BB6-4C80-8237-9E23A2D62AEB - d3b6ee05ef8c9e9f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.AlbumcreationViewModel.createAlbum(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "1412">
+               </Location>
+               <Location
+                  uuid = "E88D9D01-3BB6-4C80-8237-9E23A2D62AEB - c0e0eaf919db6e63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;Moya.MoyaError&gt;) -&gt; () in PhotoWorld.AlbumcreationViewModel.createAlbum(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/AccountModule/AlbumCreation/AlbumCreationViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "166">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "480E4F9F-D4FF-46C6-8C63-4C602220E466"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "uploadImages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "480E4F9F-D4FF-46C6-8C63-4C602220E466 - ce6902017cb67dfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "480E4F9F-D4FF-46C6-8C63-4C602220E466 - ce6902017cb67ddb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2096F32-EC1A-4B2A-93F4-3EDC230E5218"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "openPhotosession(id:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2096F32-EC1A-4B2A-93F4-3EDC230E5218 - 515c67f2ad06e5da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.PhotosessionListViewModel.addPhotosession(info: PhotoWorld.PhotosessionFullInfo) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "740">
+               </Location>
+               <Location
+                  uuid = "A2096F32-EC1A-4B2A-93F4-3EDC230E5218 - 9ae868b445487ec3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.PhotosessionListViewModel.openPhotosession(id: Swift.String) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "1278">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "248FBBA0-BB0F-4CD1-8DBD-51BA776FA388"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "openPhotosession(id:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD524966-0C06-4BA4-B0D1-52259B13CE2F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/Photosession/PhotosessionView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFB075B4-7AE8-41A4-82E6-33BEE1E43732"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/FlowCoordinators/PhotosessionModuleCoordinators/PhotoSessionModuleFlowCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "openChat(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9753AE5-4AC7-4697-A409-AD353BB02E70"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "uploadImages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9753AE5-4AC7-4697-A409-AD353BB02E70 - 91529f0d129f6ffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "703">
+               </Location>
+               <Location
+                  uuid = "C9753AE5-4AC7-4697-A409-AD353BB02E70 - 91529f0d129f6ffc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "C9753AE5-4AC7-4697-A409-AD353BB02E70 - 126100670786c1bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "C9753AE5-4AC7-4697-A409-AD353BB02E70 - 126100670786c1bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "807">
+               </Location>
+               <Location
+                  uuid = "C9753AE5-4AC7-4697-A409-AD353BB02E70 - 126100670786c1bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A7B7958-C630-448F-BCCF-6977CEFB1C98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "8A7B7958-C630-448F-BCCF-6977CEFB1C98 - 90d7d8be2b7e9d99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "1096">
+               </Location>
+               <Location
+                  uuid = "8A7B7958-C630-448F-BCCF-6977CEFB1C98 - 774ac44017a50dad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; PhotoWorld.Loader in closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8A7B7958-C630-448F-BCCF-6977CEFB1C98 - c672c1be8a45222a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "744">
+               </Location>
+               <Location
+                  uuid = "8A7B7958-C630-448F-BCCF-6977CEFB1C98 - c672c1be8a45222a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "839">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - 19828f76dba6b6b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "219">
+               </Location>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - 90d7d8be2b7e9c15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "537">
+               </Location>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - 90d7d8be2b7e9c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;&gt; in closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2527">
+               </Location>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - e6c6630a590ff034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1230">
+               </Location>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - 6a5688da6e391185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "334">
+               </Location>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - e6c6630a590ff034"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "97BD073B-EAA2-430B-9F65-6A82025A0143 - 6a5688da6e391185"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Int) -&gt; &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.buttonStyle&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ButtonStyle&gt;(&#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.ForEach&lt;Swift.Range&lt;Swift.Int&gt;, Swift.Int, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0&gt;)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "352">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98DD941D-762B-4BCD-B446-C5BF725589BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "98DD941D-762B-4BCD-B446-C5BF725589BE - f75e99eb1acd5c49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1282">
+               </Location>
+               <Location
+                  uuid = "98DD941D-762B-4BCD-B446-C5BF725589BE - f75e99eb1acd5c49"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, Swift.Optional&lt;&lt;&lt;opaque return type of SwiftUI.View.frame(width: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, height: Swift.Optional&lt;CoreGraphics.CGFloat&gt;, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt; in PhotoWorld.FinalImagesView.body.getter : some"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinalImagesView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1329">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18B2D370-CE30-45C0-9F2C-DEC465BA6249"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinaImagesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "photosLoaded(urls:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18B2D370-CE30-45C0-9F2C-DEC465BA6249 - 7601e1ef901f64a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.FinalImagesViewModel.photosLoaded(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinaImagesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "246">
+               </Location>
+               <Location
+                  uuid = "18B2D370-CE30-45C0-9F2C-DEC465BA6249 - 7601e1ef901f64c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.FinalImagesViewModel.photosLoaded(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinaImagesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  uuid = "18B2D370-CE30-45C0-9F2C-DEC465BA6249 - 7601e1ef901f6705"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.FinalImagesViewModel.photosLoaded(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinaImagesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "72"
+                  endingLineNumber = "72"
+                  offsetFromSymbolStart = "169">
+               </Location>
+               <Location
+                  uuid = "18B2D370-CE30-45C0-9F2C-DEC465BA6249 - 7601e1ef901f66d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Moya.Response) -&gt; () in PhotoWorld.FinalImagesViewModel.photosLoaded(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinaImagesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "169">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36F3D88B-5617-4B17-9961-BF86B1105D61"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionFinishing/FinaImagesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "photosLoaded(urls:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6F01D98-0139-48BE-8E0D-C8581C3FF4A1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/PhotosessionModule/PhotosessionListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "shownPhotosessions"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56A7F78B-2F43-477D-B901-C89E35CE169D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "getProfilesInfo(token:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "823A3EC2-3174-48CC-9186-E3FB77425346"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "logIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FCEDA212-D4D8-438F-955F-562CB22DF34F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/WelcomeModule/Login/LoginViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "getSingleProfile(profiles:accountService:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C7DBBAB-2B51-4038-A99D-513BD7F21229"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "uploadImages()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9C7DBBAB-2B51-4038-A99D-513BD7F21229 - 126100670786c22f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "679">
+               </Location>
+               <Location
+                  uuid = "9C7DBBAB-2B51-4038-A99D-513BD7F21229 - 126100670786c20e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;Moya.Response&gt;) -&gt; () in PhotoWorld.ImageLoader.uploadImages() -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "936">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6593148-56FF-426B-A975-26D36C9BC67A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "addItem(model:group:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D6593148-56FF-426B-A975-26D36C9BC67A - 490f187c7f1acc4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in PhotoWorld.PhotoPicker.Coordinator.addItem(model: PhotoWorld.PhotoPickerModel, group: __C.OS_dispatch_group) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "743">
+               </Location>
+               <Location
+                  uuid = "D6593148-56FF-426B-A975-26D36C9BC67A - 490f187c7f1acc4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in PhotoWorld.PhotoPicker.Coordinator.addItem(model: PhotoWorld.PhotoPickerModel, group: __C.OS_dispatch_group) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B5B679CD-C9E7-4C8E-986B-129A1DF03846"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "getPhoto(from:isLivePhoto:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B5B679CD-C9E7-4C8E-986B-129A1DF03846 - 52f6518035f9c7af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSItemProviderReading&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PhotoWorld.PhotoPicker.Coordinator.getPhoto(from: __C.NSItemProvider, isLivePhoto: Swift.Bool) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "778">
+               </Location>
+               <Location
+                  uuid = "B5B679CD-C9E7-4C8E-986B-129A1DF03846 - 52f6518035f9c7af"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;__C.NSItemProviderReading&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in PhotoWorld.PhotoPicker.Coordinator.getPhoto(from: __C.NSItemProvider, isLivePhoto: Swift.Bool) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "919">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45DBEA04-2684-4EC8-AFF7-08481E5F7588"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "addItem(model:group:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92970843-CFAE-4EDF-AEB5-DF6D537BF0CC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/ReusableViews/ImagePicker/PhotoPicker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "addItem(model:group:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "138CB873-080A-4F22-B639-3B3F13BF3A0F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/ProfileCreationModule/ImageLoader.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "uploadImages()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BB5CC02-74E6-475B-AD1A-3BB497883E7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/AccountModule/AlbumView/ViewAlbumViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "loadResultPhotos()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A1E6394-0E41-492D-8C06-D112DB6DC788"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoWorld/Modules/AccountModule/AlbumView/ViewAlbumViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "photosLoaded(urls:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A1E6394-0E41-492D-8C06-D112DB6DC788 - ec679d4c8ff27532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.ViewAlbumViewModel.photosLoaded(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/AccountModule/AlbumView/ViewAlbumViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  uuid = "0A1E6394-0E41-492D-8C06-D112DB6DC788 - ec679d4c8ff27532"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoWorld.ViewAlbumViewModel.photosLoaded(urls: Swift.Array&lt;Foundation.URL&gt;) -&gt; ()"
+                  moduleName = "PhotoWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.ostapenko/Downloads/10/PhotoWorld/Modules/AccountModule/AlbumView/ViewAlbumViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "86">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

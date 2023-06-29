@@ -1,0 +1,77 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "7f6331da4d0fcebec4996e9a64d072f467be932d"
+      }
+    },
+    {
+      "identity" : "moya",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Moya/Moya.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "963654cd4f82d17d7546b9d6127c29f6df091717"
+      }
+    },
+    {
+      "identity" : "reactiveswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
+      "state" : {
+        "revision" : "c43bae3dac73fdd3cb906bd5a1914686ca71ed3c",
+        "version" : "6.7.0"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    },
+    {
+      "identity" : "sendbird-chat-sdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sendbird/sendbird-chat-sdk-ios",
+      "state" : {
+        "revision" : "5dc606678ee68604f988c8e8fecb6c5303ef5739",
+        "version" : "4.8.4"
+      }
+    },
+    {
+      "identity" : "sendbird-uikit-ios-spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sendbird/sendbird-uikit-ios-spm.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "45521e1774e2779730cdac70725431d61b3ae898"
+      }
+    },
+    {
+      "identity" : "swiftuicalendar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GGJJack/SwiftUICalendar",
+      "state" : {
+        "revision" : "7ecd220909bc25529e35e2addb513a20abbfec82",
+        "version" : "0.1.14"
+      }
+    }
+  ],
+  "version" : 2
+}
